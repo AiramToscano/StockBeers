@@ -11,7 +11,7 @@ Antes de utilizar o projeto, é necessario ter Git, Docker/Docker-compose e npm/
 
 ## 📃 Sobre
   <p>
-    Estruturar uma aplicação web fullstack, dockerizada, cujo objetivo é realizar alguns desafios propostos pela empresa Orma Carbon.
+    Estruturar uma aplicação backend, dockerizada, cujo objetivo é salvar o banco de dados e criar uma nova API com dados do json, e também realizar alguns desafios propostos pela empresa Orma Carbon.
   </p>
 
 
@@ -74,8 +74,7 @@ Para testar as rotas basta subir o backend, as rotas estão documentadas no swag
 - `http://localhost:3001/api-docs/` - Documentada pelo Swagger.
 
 
-```
-## ⚙️ Executando os testes
+### ⚙️ Executando os testes
 
 Para essa aplicação back-end, foi feito testes unitarios, cobrindo 100% da aplicação.
 
@@ -85,11 +84,13 @@ Para essa aplicação back-end, foi feito testes unitarios, cobrindo 100% da apl
 
 Testes back-end com quase 100% de cobertura.
 
+
+
 # Front-End
 
+![recipes](https://github.com/AiramToscano/backend-test-two/blob/main/app/gif/testProject.gif)
 
 
-
-## 🎁 Expressões de gratidão
+# 🎁 Expressões de gratidão
 
 - Gostaria de agradecer a Orma Carbon  por esse desafio, aprendi muito com esse projeto, a cada um novo desafio se torna um novo aprendizado.
